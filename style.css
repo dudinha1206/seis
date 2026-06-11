@@ -5,5 +5,8 @@ body{
 h1 {
     font-style: italic;
     color: black;
-    font-size: medium;
+}
+h3 {
+    font-style: italic;
+    color: darkred;
 }
