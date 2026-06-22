@@ -1,5 +1,5 @@
 body{ 
-    background-color: darkred;
+    background-color: black;
     text-align: left;
     font-style: italic;
 }
@@ -7,4 +7,7 @@ body{
 h2 {
     color: darkred; 
     font-style: italic;
+}
+p{
+    color: white;
 }

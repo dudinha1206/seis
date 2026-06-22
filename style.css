@@ -1,10 +1,10 @@
 body{
- background-color: gainsboro;
+ background-color: black;
  text-align: left;
 }
 h1 {
     font-style: italic;
-    color: black;
+    color: darkred;
 }
 h3 {
     font-style: italic;
@@ -14,9 +14,12 @@ h3 {
     text-align: left;
     background-color: darkred;
     border-left: darkred ;
-    color: darkred;
+    color: white;
     padding: 20px;
     margin-top: 30px;
     font-weight: bold;
     border-radius: 6px;
+}
+p{
+    color: white;
 }
