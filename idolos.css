@@ -1,8 +1,13 @@
 body{ 
-    background-color: black;
+    background-color: dimgray;
     text-align: left;
     font-style: italic;
 }
+
+h1{
+    background-color: darkred;
+    font-style: italic;
+    }
 
 h2 {
     color: darkred; 
